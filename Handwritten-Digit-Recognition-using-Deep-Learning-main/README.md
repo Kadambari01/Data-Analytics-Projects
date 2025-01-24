@@ -1,8 +1,5 @@
 # Handwritten Digit Recognition using Machine Learning and Deep Learning
 
-## Published Paper 
-
-[IJARCET-VOL-6-ISSUE-7-990-997](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-6-ISSUE-7-990-997.pdf)
 
 # Requirements
 
